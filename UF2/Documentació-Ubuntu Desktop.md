@@ -38,13 +38,18 @@ Documentació
 - La tercera particio ha de ser de 8192 MB primaria i ha de utilizarse com área de intercambio
 ![image](https://github.com/user-attachments/assets/2650ad12-dadb-4a47-9eec-0ae0d8697d11)
 
-- La quarta partició ha de tenir 10240 MB ha de ser logica ha de ser utilitzada com un sistema de fitxers ext4 i el punt de montatge a de ser a /Home
+- La quarta partició ha de tenir 10240 MB ha de ser logica ha de ser utilitzada com un sistema de fitxers ext4 i el punt de
+  montatge a de ser a /Home
 ![image](https://github.com/user-attachments/assets/12f51b44-f08a-48a1-ac18-8165051e4164)
 
-- Per la ultima partició a de ser de 39 GB logica utilitzada com EXT4 i el punt de montatge a de ser /home
+- Per la ultima partició a de ser de 39 GB logica utilitzada com EXT4 i el punt de montatge a de ser /
+  (En aquesta imatge he possat /Home i no tinc captura de cuan ho vaig cambiar pero es sols / )
 ![image](https://github.com/user-attachments/assets/c60f24d4-ddc3-49d3-b17d-c3529d17b3dd)
 
-- 
+- Aqui podem veure com queda despres de fer totes les particions
+  
+![image](https://github.com/user-attachments/assets/2fee5f33-59b8-4989-b70f-7f2423ec5b71)
+- Seguidament l'hi donem a instalar ahora
 
 
 
