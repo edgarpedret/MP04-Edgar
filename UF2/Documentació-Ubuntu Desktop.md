@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c100696f-3d51-40ce-8459-b609e0f08d53) Documentació
+Documentació
 - Primer, hem de descarregar la ISO d'Ubuntu Desktop i clicar a "Nova". A continuació, seleccionem la ISO que hem descarregat i cliquem l'opció d'instal·lació desatesa.
 ![image](https://github.com/user-attachments/assets/29f33420-2401-4e30-be16-348d7fc55fb1)
 
@@ -43,6 +43,8 @@
 
 - Per la ultima partició a de ser de 39 GB logica utilitzada com EXT4 i el punt de montatge a de ser /home
 ![image](https://github.com/user-attachments/assets/c60f24d4-ddc3-49d3-b17d-c3529d17b3dd)
+
+- 
 
 
 
