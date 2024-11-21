@@ -42,14 +42,21 @@ Documentació
   montatge a de ser a /Home
 ![image](https://github.com/user-attachments/assets/12f51b44-f08a-48a1-ac18-8165051e4164)
 
-- Per la ultima partició a de ser de 39 GB logica utilitzada com EXT4 i el punt de montatge a de ser /
-  (En aquesta imatge he possat /Home i no tinc captura de cuan ho vaig cambiar pero es sols / )
+- Per a l'última partició, ha de ser de 39 GB, lògica, utilitzada com a EXT4 i amb el punt de muntatge /.
+(En aquesta imatge he posat /home i no tinc captura de quan ho vaig canviar, però és només /.)
 ![image](https://github.com/user-attachments/assets/c60f24d4-ddc3-49d3-b17d-c3529d17b3dd)
 
-- Aqui podem veure com queda despres de fer totes les particions
+- Aquí podem veure com queda després de fer totes les particions.
   
 ![image](https://github.com/user-attachments/assets/2fee5f33-59b8-4989-b70f-7f2423ec5b71)
-- Seguidament l'hi donem a instalar ahora
+- A continuació, fem clic a "Instalar ara" i després a "Continuar".
+Tot seguit, seleccionem Tarragona quan ens pregunta on ens trobem.
+  ![image](https://github.com/user-attachments/assets/16e70dcb-72c1-452d-b2d8-a3c76e6318e0)
+- I Després, creem el nostre usuari, omplint els camps necessaris, i fem clic a "Crear".
+  ![image](https://github.com/user-attachments/assets/e2411f46-2bf9-493d-a1e7-6b2fe2b230c3)
+- Quan s'hagi instal·lat, reiniciem la màquina virtual.
+
+
 
 
 
